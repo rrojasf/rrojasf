@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##Profile under construction!
+## Profile under construction!
 
-##Connect with me
+## Connect with me
 
 <p align="left">
 	<a href="https://twitter.com/rrojasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rrojasf" height="20" /></a>&nbsp;
