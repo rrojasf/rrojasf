@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Profile under construction!
-
 ## Connect with me
 
 <p align="left">
@@ -15,5 +13,5 @@
 | <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rrojasf&theme=rogue" alt="Robert's github activity graph" />
 | :---: |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrojasf&theme=rogue" alt="Top Langs" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrojasf&theme=rogue" alt="Robert's GitHub Streak" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrojasf&theme=yeblu" alt="Top Langs" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrojasf&theme=rogue](https://streak-stats.demolab.com/?user=rrojasf&theme=yeblu&exclude_days=Sun%2CSat)" alt="Robert's GitHub Streak" /> |
 | :---: | :---: |
