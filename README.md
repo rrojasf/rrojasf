@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**rrojasf/rrojasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Profile under construction!
 
-Here are some ideas to get you started:
+##Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+	<a href="https://twitter.com/rrojasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rrojasf" height="20" /></a>&nbsp;
+	<a href="https://linkedin.com/in/rrojasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rrojasf" height="20" /></a> &nbsp;
+	<a href="https://instagram.com/soyrobertrojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Soy Robert Rojas" height="20" /></a>&nbsp;
+</p>
+
+## Current Stats
+
+| <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rrojasf&theme=rogue" alt="Robert's github activity graph" />
+| :---: |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrojasf&theme=rogue" alt="Top Langs" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrojasf&theme=rogue" alt="Robert's GitHub Streak" |
+| :---: | :---: |
